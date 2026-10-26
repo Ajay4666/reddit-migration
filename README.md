@@ -1,26 +1,26 @@
 Reddit Migration
 
-Reddit Migration is an open-source project designed to simplify content migration and automatic post sharing across different platforms.
+An open-source project to automate content migration and post sharing between supported applications.
 
-Features
+Overview
 
-- Automate content-sharing workflows between supported applications.
-- Reduce manual effort when transferring posts between platforms.
-- Simplify content migration and post management.
-- Build a foundation for supporting additional platforms in the future.
+Reddit Migration aims to make it easier to transfer or share content across platforms, reducing repetitive manual work.
 
-Project Goals
+Goals
 
-The goal of this project is to make cross-platform content sharing easier, more efficient, and accessible to developers.
+- Simplify content migration.
+- Automate supported content-sharing workflows.
+- Reduce repetitive manual tasks.
+- Make the project easier for developers to extend.
 
-Status
+Development Status
 
-This project is currently under development. Features and supported platforms may change as development progresses.
+This project is under development. Supported platforms and features will be documented as they become available.
 
 Contributing
 
-Contributions, suggestions, and bug reports are welcome.
+Suggestions, bug reports, and contributions are welcome.
 
 License
 
-The project license will be specified once an appropriate open-source license is selected.# reddit-migration
+This project is licensed under the MIT License. See the "LICENSE" file for details.
